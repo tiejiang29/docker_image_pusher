@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nodered/node-red:latest
 portainer/portainer-ce:latest
-	homeassistant/home-assistant:latest
+homeassistant/home-assistant:latest
