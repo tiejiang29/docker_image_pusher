@@ -7,4 +7,6 @@
 #nodered/node-red:latest
 #portainer/portainer-ce:latest
 #homeassistant/home-assistant:latest
-jeessy/ddns-go
+#jeessy/ddns-go
+sliamb/ppgwiso
+sliamb/paopaodns
