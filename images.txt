@@ -4,9 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#nodered/node-red:latest
-#portainer/portainer-ce:latest
-#homeassistant/home-assistant:latest
-#jeessy/ddns-go
-sliamb/ppgwiso
-sliamb/paopaodns
+nodered/node-red:latest
+portainer/portainer-ce:latest
+homeassistant/home-assistant:latest
+jeessy/ddns-go:latest
